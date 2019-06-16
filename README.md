@@ -1,4 +1,4 @@
-Capstone Project : Food inspection vaiolation [Repo](https://git.generalassemb.ly/AseelAlawadh/food_inspections/) 
+Capstone Project : Food inspection vaiolation [Repo](https://github.com/AseelAlawadh/food_inspections) 
 
 ### Dataset Brief Description: 
 This dataset contains information from inspections of restaurants in Chicago from January 1, 2013 to April 30, 2019.
@@ -52,7 +52,7 @@ Write a simple Rest API with Python Flask in order to have the infomration from 
 ### Deliverables: 
 The project contains modules can be communicate with predict model. also ready to comunicate with Database and geting respnse from the Api as Json.
 
-### Food Dashboard:[Repo](https://git.generalassemb.ly/AseelAlawadh/food_inspection_dashboard)
+### Food Dashboard:[Repo](https://github.com/AseelAlawadh/food_inspection_dashboard)
 Write a simple Dashboard to communicate and fetch the data from Rest API.
 
 #### install project:
@@ -62,15 +62,6 @@ Write a simple Dashboard to communicate and fetch the data from Rest API.
 
 ### Deliverables: 
 the project still in initial state of building the dashboard.
-
-### Conclusions: 
-
-
-
-
- 
-
-
 
 ### Acknowledgements:
 The Dataset Brief Description has been copied from [FOOD INSPECTION FORECASTING](https://chicago.github.io/food-inspections-evaluation/). also I would like to mention this research was conducted by Aseel Alawadh as part of General Assempply program (DSI) with support from DSI Instructors.I would especially like to thank Khaled Alresheed, Androw , Esra for their efforts in deomnstrate and help for understanding the data to have the predictive model. 
